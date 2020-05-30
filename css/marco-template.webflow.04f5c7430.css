@@ -1626,7 +1626,7 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   padding-right: 15px;
-  padding-bottom: 168px;
+  padding-bottom: 90px;
   padding-left: 15px;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1754,6 +1754,12 @@ figcaption {
 }
 .service-side-image.service-side-image-9 {
   background-image: url("../images/14.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.service-side-image.service-side-image-10 {
+  background-image: url("../images/17.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
